@@ -437,15 +437,21 @@ Objects—a distributed object storage system wraps data into objects, identifie
 ## Ability to store and process huge amounts of any kind of data, quickly. With data volumes and varieties constantly increasing, especially from social media and the Internet of Things (IoT), that's a key consideration.
 
 ```
-Computing power. Hadoop's distributed computing model processes big data fast. The more computing nodes you use, the more processing power you have.
+`Computing power `:
 
-Fault tolerance. Data and application processing are protected against hardware failure. If a node goes down, jobs are automatically redirected to other nodes to make sure the distributed computing does not fail. Multiple copies of all data are stored automatically.
+Hadoop's distributed computing model processes big data fast. The more computing nodes you use, the more processing power you have.
 
-Flexibility. Unlike traditional relational databases, you don’t have to preprocess data before storing it. You can store as much data as you want and decide how to use it later. That includes unstructured data like text, images and videos.
+`Fault tolerance`:
+Data and application processing are protected against hardware failure. If a node goes down, jobs are automatically redirected to other nodes to make sure the distributed computing does not fail. Multiple copies of all data are stored automatically.
 
-Low cost. The open-source framework is free and uses commodity hardware to store large quantities of data.
+`Flexibility`:
+Unlike traditional relational databases, you don’t have to preprocess data before storing it. You can store as much data as you want and decide how to use it later. That includes unstructured data like text, images and videos.
 
-Scalability. You can easily grow your system to handle more data simply by adding nodes. Little administration is required.
+`Low cost`:
+The open-source framework is free and uses commodity hardware to store large quantities of data.
+
+`Scalability`:
+You can easily grow your system to handle more data simply by adding nodes. Little administration is required.
 ```
 
 ![image](https://user-images.githubusercontent.com/61896468/93470330-5db21900-f90f-11ea-8fd1-c2702ceddf88.png)
